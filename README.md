@@ -1,0 +1,1 @@
+# app-oper-gestor-react
